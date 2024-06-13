@@ -7,9 +7,6 @@ Hello
     <td width=50% style="border: none">
         <video controls autoplay loop src="https://github.com/dev-super-user/gantt-whit-streamlit/blob/9d7f3cccdd5a9bd480efa59c98f74e296c3c24f6/media/Demo%20Gantt.mp4" muted="false"></video>
     </td>
-    <td width=50% style="border: none">
-        <!-- Puedes agregar otro video aquí o dejarlo vacío -->
-    </td>
 </tr>
 
 </table>
