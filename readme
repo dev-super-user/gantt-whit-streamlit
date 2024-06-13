@@ -1,2 +1,12 @@
 Hello
 
+## Demo
+
+<table class="center">
+    <tr>
+        <td width=50% style="border: none">
+            <video controls autoplay loop src="media/Demo Gantt.mp4" muted="false"></video>
+        </td>
+    </tr>
+</table>
+
